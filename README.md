@@ -47,19 +47,7 @@ Identify high-performing categories and products.
 Understand customer behavior and average order price.
 Geographic Insights:
 Leverage the UK map to pinpoint cities with the highest sales.
-🌟 Why This Project?
-This project demonstrates expertise in:
-
-Data Analysis: Cleaning and transforming raw data using SQL and Python.
-Visualization Design: Creating user-friendly and visually appealing dashboards with Power BI.
-Business Intelligence: Providing actionable insights to help organizations make informed decisions.
-📂 Project Structure
-SQL Scripts: Folder containing SQL queries for data transformation.
-Python Notebooks: Jupyter notebooks used for EDA and visualization.
-Power BI File: ![Screenshot (sales dashboard)](https://github.com/user-attachments/assets/a083ee50-2ca5-49c3-875b-ee4ecb0ad212)
-taset: Provide your dataset here or add instructions for accessing it.
-
-
+![Screenshot (sales dashboard)](https://github.com/user-attachments/assets/a083ee50-2ca5-49c3-875b-ee4ecb0ad212)
 
 👨‍💻 Technologies Used
 Power BI: For creating the dashboard and visualizations.
