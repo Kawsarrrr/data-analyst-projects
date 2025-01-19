@@ -1,5 +1,6 @@
-##UK Sales Performance Dashboard
-##📊 Overview
+UK Sales Performance Dashboard
+
+📊 Overview
 The UK Sales Performance Dashboard is a data visualization project designed to analyze and display key sales metrics for a business operating in the United Kingdom. Built with Power BI, this interactive dashboard provides valuable insights into sales performance, customer behavior, and regional trends.
 
 Before creating the dashboard, Exploratory Data Analysis (EDA) was performed using SQL and Python to clean, transform, and analyze the raw data, ensuring that the visualizations are accurate and actionable.
