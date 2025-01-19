@@ -8,6 +8,7 @@ Before creating the dashboard, Exploratory Data Analysis (EDA) was performed usi
 This project showcases advanced data analysis and visualization techniques, demonstrating your skills in data analysis, business intelligence, and storytelling with data.
 
 🛠️ Features
+
 Interactive Visualizations: Explore sales performance through intuitive graphs, charts, and maps.
 Key Metrics:
 Total Sales: 369.48K
@@ -23,21 +24,11 @@ Sales distribution by major UK cities displayed on a map.
 Trends Analysis: Monthly sales trends for the year to identify seasonality and growth patterns.
 
 🚀 Getting Started
-#Prerequisites
+
+Prerequisites
 Power BI Desktop: Download and install Power BI Desktop.
 Python Environment: Install Python and libraries such as Pandas, NumPy, and Matplotlib/Seaborn for EDA.
 SQL Database: Use a database management system like MySQL, PostgreSQL, or SQLite for querying and cleaning data.
-Data Source: A mock dataset or your company's sales data formatted as CSV or Excel.
-##Installation
-Clone this repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/uk-sales-dashboard.git
-Open the .pbix file in Power BI Desktop.
-Load your data source if applicable.
-Review and run the SQL scripts and Python notebooks included in the repository for data analysis and preprocessing.
-
 📌 How to Use
 1. EDA (Exploratory Data Analysis)
 SQL:
@@ -65,10 +56,9 @@ Business Intelligence: Providing actionable insights to help organizations make 
 📂 Project Structure
 SQL Scripts: Folder containing SQL queries for data transformation.
 Python Notebooks: Jupyter notebooks used for EDA and visualization.
-Power BI File: uk_sales_dashboard.pbix
-Dashboard Screenshot: Screenshot (83).png
-Dataset: Provide your dataset here or add instructions for accessing it.
-🖼️ Dashboard Preview
+Power BI File: ![Screenshot (sales dashboard)](https://github.com/user-attachments/assets/a083ee50-2ca5-49c3-875b-ee4ecb0ad212)
+taset: Provide your dataset here or add instructions for accessing it.
+
 
 
 👨‍💻 Technologies Used
