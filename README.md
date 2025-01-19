@@ -7,20 +7,22 @@ Before creating the dashboard, Exploratory Data Analysis (EDA) was performed usi
 
 This project showcases advanced data analysis and visualization techniques, demonstrating your skills in data analysis, business intelligence, and storytelling with data.
 
-##🛠️ Features
+🛠️ Features
 Interactive Visualizations: Explore sales performance through intuitive graphs, charts, and maps.
 Key Metrics:
 Total Sales: 369.48K
 Total Customers: 297
 Average Order Price: £319.62
-##Sales Breakdown:
+
+Sales Breakdown:
 By Category: Electronics, Stationery, and Furniture.
 By Ship Mode: First Class, Second Class, and Standard Class.
 By Product Name: Top-performing products with detailed sales values.
 Geographic Analysis:
 Sales distribution by major UK cities displayed on a map.
 Trends Analysis: Monthly sales trends for the year to identify seasonality and growth patterns.
-##🚀 Getting Started
+
+🚀 Getting Started
 #Prerequisites
 Power BI Desktop: Download and install Power BI Desktop.
 Python Environment: Install Python and libraries such as Pandas, NumPy, and Matplotlib/Seaborn for EDA.
@@ -35,7 +37,8 @@ git clone https://github.com/your-username/uk-sales-dashboard.git
 Open the .pbix file in Power BI Desktop.
 Load your data source if applicable.
 Review and run the SQL scripts and Python notebooks included in the repository for data analysis and preprocessing.
-##📌 How to Use
+
+📌 How to Use
 1. EDA (Exploratory Data Analysis)
 SQL:
 Use SQL queries to clean and transform the data (e.g., handling nulls, grouping by category, calculating KPIs).
@@ -45,7 +48,7 @@ Visualize data trends using Pandas and Matplotlib/Seaborn.
 Perform statistical analysis and outlier detection.
 Export the cleaned data for dashboard creation.
 2. Power BI Dashboard
-#Filter Data:
+Filter Data:
 Use the regional filters (Central, East, South, West) to focus on specific areas.
 Drill down into specific timeframes using the monthly trends chart.
 Analyze Trends:
